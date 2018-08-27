@@ -1,6 +1,6 @@
 # Frontend-UI
 A Sample Webpage
-Mainn.html is the full code of my sample webpage.Others are just for some specifications.
+Mainn.html and these images will give my full sample webpage.Others are just for some specifications.
 
 
 IMAGES USED IN MY SITE:
