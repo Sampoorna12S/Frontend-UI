@@ -1,0 +1,123 @@
+body{
+text-align:center;
+}
+
+.button {
+    background-color: #4CAF50; 
+    border: none;
+    color: #E33D3D;
+    padding: 20px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button1 {margin-left:15px;border-radius: 50%; background-color: white;}
+.button1:hover {
+    background-color: #ff8080;
+    color:#E33D3D;
+}
+.button2 {margin-left:125px;border-radius: 50%; background-color: white;}
+.button2:hover {
+    background-color: #ff8080;
+    color: #E33D3D;
+}
+.button3 {margin-left:200px;border-radius: 50%; background-color: white;}
+.button3:hover {
+    background-color: #ff8080;
+    color: #E33D3D;
+}
+</style>
+
+
+
+
+
+
+<style>
+.container{
+    max-width:800px;
+    margin:auto;
+    position:relative;
+    border:1px solid balck;
+  }
+  .item{
+    alt:Avatar;
+    width:850px;
+    height:300px;
+    border-radius:50%;
+    font-size:70%;
+    text-align:center;
+    margin:auto;
+  }
+.icon{
+   
+   width:25px;
+  padding:50px 20px;
+  line-height:150px;
+  color:black;
+  cursor:pointer;
+  text-align:center;
+}
+
+</style>
+
+
+
+
+<style>
+
+body {margin:0;}
+
+.icon-bar {
+    width: 100%;
+    background-color:  #5c5c3d;
+    overflow: auto;
+}
+
+.icon-bar a {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 5px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 26px;
+}
+
+.icon-bar a:hover {
+    background-color: #ff8080;
+}
+
+.active {
+    background-color:  #5c5c3d;
+}
+#myDIV {
+    
+<div class="w3-row-padding w3-theme">
+padding:35px;
+}
+.btn{
+  border-color: #e7e7e7;
+    color: black;
+   padding: px 35px;
+  border-radius:12px;
+    cursor: pointer;
+   position: relative;
+  top: -43px;
+  left: 500px;
+}
+p    {color: black;
+      font-size:160%;
+      text-align:center;}
+
+.img:hover {color: #E33D3D;}
+p    {color: black;
+      font-size:160%;
+      text-align:center;}
+ 
